@@ -165,9 +165,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- **Author**: [Your Name]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Email**: [your.email@example.com]
+- **Author**: Damario Abdalla
+- **LinkedIn**: https://www.linkedin.com/in/damarioabdalla/
+- **Email**: rio.abdalla@gmail.om
 - **Project Link**: [https://github.com/yourusername/worldseries-homeruns-analysis](https://github.com/yourusername/worldseries-homeruns-analysis)
 
 ## Citation
@@ -175,7 +175,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you use this analysis in your research or writing, please cite:
 
 ```
-[Your Name]. (2024). World Series Home Runs Win Probability Analysis. 
+Damario Abdalla. (2025). World Series Home Runs Win Probability Analysis. 
 GitHub repository: https://github.com/yourusername/worldseries-homeruns-analysis
 ```
 
